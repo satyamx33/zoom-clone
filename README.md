@@ -1,14 +1,19 @@
 # Zoom Clone - Real-Time Video Conferencing App
 
-A full-stack **real-time video conferencing application** built with **Node.js**, **Socket.io**, and **Peer.js**. This app allows users to join virtual rooms, chat, and share video/audio in real-time. 
+A full-stack **real-time video conferencing application** built with **Node.js**, **Socket.io**, and **Peer.js**. This app allows users to join virtual rooms, chat, and share video/audio in real-time.
 
-![Zoom Clone](https://www.stickpng.com/img/icons-logos-emojis/video-conference-software-providers/zoom-icon-logo)
 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Code Explanation](#code-explanation)
+  - [Server Setup](#server-setup)
+  - [Socket.io Communication](#socketio-communication)
+  - [Peer.js Integration](#peerjs-integration)
+  - [Room Creation and Management](#room-creation-and-management)
+  - [Messages and Notifications](#messages-and-notifications)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -27,8 +32,9 @@ This project is a **Zoom Clone** for video conferencing, designed to allow users
 
 ### Prerequisites
 Before running this project, ensure you have the following installed:
-- **Node.js** and **npm** (Node Package Manager)
-- **Git** (for version control)
+- **Node.js**: A JavaScript runtime that allows you to run JavaScript on the server-side.
+- **npm**: Node Package Manager, used to install project dependencies.
+- **Git**: Version control to manage the project code.
 
 ### Steps
 1. Clone this repository to your local machine:
