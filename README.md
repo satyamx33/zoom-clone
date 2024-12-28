@@ -2,7 +2,7 @@
 
 A full-stack **real-time video conferencing application** built with **Node.js**, **Socket.io**, and **Peer.js**. This app allows users to join virtual rooms, chat, and share video/audio in real-time. 
 
-![Zoom Clone](./public/assets/zoom-clone-banner.png)
+![Zoom Clone](https://www.stickpng.com/img/icons-logos-emojis/video-conference-software-providers/zoom-icon-logo)
 
 ## Table of Contents
 - [About](#about)
